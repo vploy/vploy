@@ -1,0 +1,5 @@
+package appstore
+
+func Start() {
+	//
+}
